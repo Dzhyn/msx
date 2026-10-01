@@ -1,0 +1,15 @@
+{
+  "name": "Sosalkino",
+  "version": "1.0.0",
+  "pages": [
+    {
+      "items": [
+        {
+          "label": "Вздрочнуть",
+          "action": "link:https://r1.sosalkino.city",
+          "image": "https://r1.sosalkino.city/static/images/logo.png"
+        }
+      ]
+    }
+  ]
+}
