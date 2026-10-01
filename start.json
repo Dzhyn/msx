@@ -1,5 +1,5 @@
 {
   "name": "Сосалкино",
   "version": "1.0.0",
-  "parameter": "menu:https://dzhyn.github.io/msx/menu.json"
+  "parameter": "menu:https://dzhyn.github.io/msx/data/menu.json"
 }   
